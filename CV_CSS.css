@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif, Arial, sans-serif;
+    margin: 30px;
+}
+
+.main-container {
+    width: 100%;
+}
+
+.left-column {
+    float: left;
+    width: 40%;
+    margin-left: 20%;
+}
+
+.right-column {
+    float: right; 
+    width: 17%;
+    margin-right: 20%;
+    background-color: rgb(217, 217, 217);
+    padding: 15px;
+    border: 1px solid rgb(217, 217, 217);
+    box-sizing: border-box;
+    min-height: 500px;
+}
+
+h1{
+    font-size:40px;
+    background-color: rgb(10,117,173);
+    color: white;
+    text-indent: 20px;
+    line-height: 3;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2{
+    color: rgb(10,117,173);
+    border-bottom: 3px solid rgb(10,117,173); 
+}
+
+h3{
+    font-size:medium;
+    margin-bottom: 1px;
+}
+
+.right-column p {
+    margin-top: 4px;
+}
+
+.right-column ul{
+    margin-top: 4px;
+}
